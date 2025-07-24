@@ -33,4 +33,3 @@ for i, tehsil in enumerate(tehsils):
 
 # Show map
 m.to_streamlit(height=600)
-add app.py
